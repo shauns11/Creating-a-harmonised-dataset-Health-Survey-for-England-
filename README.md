@@ -8,7 +8,8 @@ Shaun Scholes<sup>1</sup>; Jennifer S Mindell<sup>1</sup>; Mari Toomse-Smith<sup
 <sup>4</sup>Division of Epidemiology and Biostatistics, School of Public Health, University of Cape Town, Cape Town, South Africa <br>
 <sup>5</sup>Faculty of Education, Health and Human Sciences, University of Greenwich, London, United Kingdom <br>
 
-**Abstract**
+**Abstract** <br>
+
 **Background:** Cardiovascular diseases (CVD) are the leading cause of death globally. Demographic, behavioural, socioeconomic, healthcare and psychosocial variables, 
 considered as risk factors for CVD, are routinely measured in population health surveys and therefore provide an opportunity to examine health transitions. 
 Studying the drivers of health transitions in countries where multiple burdens of disease still linger (such as South Africa), compared with countries seen as models of 
